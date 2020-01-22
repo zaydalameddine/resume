@@ -1,6 +1,6 @@
 # Zayd Alameddine - Resume
 
-This is the code used to build my personal webiste. This code was done in HTML 5. To view the site on your web browser please click [here](https://zaydalameddine.com)
+This is the code used to build my personal webiste. This code was done in HTML 5. To view the site on your web browser please click [here](https://www.zaydalameddine.com)
 
 ## Copyright and License
 
